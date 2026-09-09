@@ -5,14 +5,16 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from pyrogram.errors import UserNotParticipant
 
 # Telegram API Details (my.telegram.org se lein)
-API_ID = 12345678  
-API_HASH = "YOUR_API_HASH"  
-BOT_TOKEN = "YOUR_BOT_TOKEN"  # @BotFather se lein
+API_ID = 38215355
+API_HASH = "3f095c170be8c744b8f3d7f9c75ae544
+"  
+BOT_TOKEN = "8700557784:AAG8jS0Ua6PiQLj14ct6iVFo15MveDN8WRE"  # @BotFather se lein
 
 # Channels Setup
 FORCE_SUB_CHANNEL = -1003964032718  # Aapka Channel ID
 FORCE_SUB_LINK = "https://t.me/all_anime_update"  # Channel Link
-DB_CHANNEL = -100xxxxxxxxxx  # Private Storage Channel (Jahan files save hongi)
+DB_CHANNEL = -1004487298929
+# Private Storage Channel (Jahan files save hongi)
 
 # Custom Banner Image URL
 BANNER_IMAGE_URL = "https://telegra.ph/file/your_image_link.jpg" 

@@ -6,8 +6,7 @@ from pyrogram.errors import UserNotParticipant
 
 # Telegram API Details (my.telegram.org se lein)
 API_ID = 38215355
-API_HASH = "3f095c170be8c744b8f3d7f9c75ae544"
-"  
+API_HASH = "3f095c170be8c744b8f3d7f9c75ae544"  
 BOT_TOKEN = "8700557784:AAG8jS0Ua6PiQLj14ct6iVFo15MveDN8WRE"  # @BotFather se lein
 
 # Channels Setup
